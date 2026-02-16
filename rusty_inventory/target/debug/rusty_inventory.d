@@ -1,0 +1,1 @@
+/home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/rusty_inventory/target/debug/rusty_inventory: /home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/rusty_inventory/src/lib.rs /home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/rusty_inventory/src/main.rs
