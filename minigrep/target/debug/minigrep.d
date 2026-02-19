@@ -1,1 +1,1 @@
-/home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/minigrep/target/debug/minigrep: /home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/minigrep/src/main.rs
+/home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/minigrep/target/debug/minigrep: /home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/minigrep/src/lib.rs /home/rahim/Desktop/DEV-WORK/RUST-DUMP/PROJECTS/minigrep/src/main.rs
